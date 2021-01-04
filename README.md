@@ -116,7 +116,7 @@ Case Study – Book Cover Classification, Analysis and Recognition, will incorpo
 ### The First: "Aram Salehi"
 
 <p align="center">
-  <img width="320" height="320" src="">
+  <img width="225" height="374" src="">
 </p>
 
 
