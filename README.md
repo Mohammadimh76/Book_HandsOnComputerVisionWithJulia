@@ -116,7 +116,7 @@ Case Study – Book Cover Classification, Analysis and Recognition, will incorpo
 ### The First: "Aram Salehi"
 
 <p align="center">
-  <img width="225" height="374" src="">
+  <img width="225" height="374" src="https://raw.githubusercontent.com/Mohammadimh76/Book_HandsOnComputerVisionWithJulia/main/Authors/AramSalehi.jpeg">
 </p>
 
 
@@ -128,7 +128,7 @@ Case Study – Book Cover Classification, Analysis and Recognition, will incorpo
 ### The Second: "Mohammad Hossein Mohammadi"
 
 <p align="center">
-  <img width="360" height="276" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Authors/MohammadHosseinMohammadi.jpeg">
+  <img width="360" height="276" src="https://raw.githubusercontent.com/Mohammadimh76/Book_HandsOnComputerVisionWithJulia/main/Authors/MohammadHosseinMohammadi.jpeg">
 </p>
 
 Iam currently a Final-year BS.c student at the Department of Computer Engineering, Islamic Azad University, Najafabad Branch (IAUN) (Rank in CWUR) where I am a member of the Bioinformatics Laboratory (BL), advised by Prof. Mohammad Naderi Dehkordi. my research involves machine vision, deep learning, and neural networks. where I will complete my thesis on Accurate and Early Identification of Diabetes and it's Affecting Factors.
@@ -143,7 +143,7 @@ Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Hi
 ### Third: "Seyed Yahya Moradi"
 
 <p align="center">
-  <img width="320" height="318" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Authors/SeyedYahyaMoradi.jpeg">
+  <img width="320" height="318" src="https://raw.githubusercontent.com/Mohammadimh76/Book_HandsOnComputerVisionWithJulia/main/Authors/SeyedYahyaMoradi.jpeg">
 </p>
 
 I am Biomedical Engineer from University of Isfahan. My research interests is Non-Invasive Brain Stimulation, Neuroscience, Brain Mapping & Connectivity, Biomedical AI & IOT, Biosignal Processing.
