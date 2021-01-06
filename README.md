@@ -1,4 +1,4 @@
-## "Hands On Computer Vision with Julia"
+# "Hands On Computer Vision with Julia"
 
 ---
 
