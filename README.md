@@ -163,6 +163,20 @@ I am Biomedical Engineer from University of Isfahan. My research interests is No
 📧 𝐄𝐦𝐚𝐢𝐥: s.yahyamoradi@yahoo.com 
 
 ---
+
+## TODO
+- [x] Chapter (1): Getting Started with JuliaImages
+- [x] Chapter (2): Image Enhancement 
+- [x] Chapter (3): Image Adjustment
+- [x] Chapter (4): Image Segmentation
+- [x] Chapter (5): Image Representation
+- [ ] Chapter (6): Introduction to Neural Networks
+- [ ] Chapter (7): Using Pre-Trained Neural Networks
+- [ ] Chapter (8): OpenCV
+- [ ] Chapter (9): Case Study – Book Cover Classification, Analysis and Recognition
+
+
+---
 ---
 
 👇Click on the link below to see the E-Book Demo!👇😉
