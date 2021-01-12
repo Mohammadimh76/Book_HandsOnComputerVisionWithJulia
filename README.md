@@ -248,7 +248,7 @@ I am Biomedical Engineer from University of Isfahan. My research interests is No
 - [x] Chapter (3): Image Adjustment
 - [x] Chapter (4): Image Segmentation
 - [x] Chapter (5): Image Representation
-- [ ] Chapter (6): Introduction to Neural Networks
+- [x] Chapter (6): Introduction to Neural Networks
 - [ ] Chapter (7): Using Pre-Trained Neural Networks
 - [ ] Chapter (8): OpenCV
 - [ ] Chapter (9): Case Study – Book Cover Classification, Analysis and Recognition
